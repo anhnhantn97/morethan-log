@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@anhnhantn97 
-morethanmin
-/
-morethan-log
-Public
-Fork your own copy of morethanmin/morethan-log
-Code
-Issues
-18
-Pull requests
-1
-Discussions
-Actions
-Projects
-Security
-More
-morethan-log/site.config.js /
-@ddarkr
-ddarkr [FEAT] add cusdis comment support (#103)
-…
-Latest commit eefde1d 2 hours ago
- History
- 3 contributors
-@morethanmin@ddarkr@kvaishak
-70 lines (67 sloc)  1.98 KB
-
 const CONFIG = {
   // profile setting (required)
   profile: {
@@ -102,18 +68,3 @@ const CONFIG = {
   isProd: process.env.VERCEL_ENV === "production", // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
 }
 module.exports = CONFIG
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-morethan-log/site.config.js at main · morethanmin/morethan-log
