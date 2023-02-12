@@ -13,13 +13,13 @@ const CONFIG = {
   projects: [
     {
       name: `morethan-log`,
-      href: 'https://github.com/morethanmin/morethan-log'
+      href: 'https://github.com/anhnhantn97/morethan-log'
     }
   ],
   // blog setting (required)
   blog: {
-    title: 'morethan-log',
-    description: 'welcome to morethan-log!',
+    title: 'KANKI',
+    description: 'welcome to KANKI!',
     theme: 'light' // ['light', 'dark', 'auto']
   },
 
@@ -34,7 +34,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId: process.env.https://www.notion.so/aafe17604f3b4a9ba74d51ebe6378422?v=7e15f04ab7ff4447a68901689eaf222a,
   },
 
   // plugin configuration (optional)
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: 'morethanmin/morethan-log',
+      repo: 'anhnhantn97/morethan-log',
       'issue-term': 'og:title',
       label: '💬 Utterances',
     }
